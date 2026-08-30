@@ -1,0 +1,5 @@
+1. Buat repository GitHub baru.
+2. Upload seluruh isi folder project ini.
+3. Buka tab Actions -> Build APK.
+4. Setelah selesai, buka run tersebut -> Artifacts -> GalleryCleaner-debug.
+5. Download ZIP artifact dan ambil app-debug.apk.
